@@ -25,7 +25,10 @@ Este é um projeto simples de uma aplicação web de lista de tarefas, que permi
 
 ## 💻 Como Usar
 
-1.  Faça o download ou clone o repositório.
+1.  Faça o download ou clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-estudos.git
+   ```
 2.  Abra o arquivo `index.html` em qualquer navegador moderno.
 3.  Utilize a aplicação para gerenciar suas tarefas.
 
